@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alievamadina.githhub.io/homework-9/static/css/main.964fdded.css",
+    "main.js": "/Alievamadina.githhub.io/homework-9/static/js/main.df275227.js",
+    "index.html": "/Alievamadina.githhub.io/homework-9/index.html",
+    "main.964fdded.css.map": "/Alievamadina.githhub.io/homework-9/static/css/main.964fdded.css.map",
+    "main.df275227.js.map": "/Alievamadina.githhub.io/homework-9/static/js/main.df275227.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.df275227.js"
+  ]
+}
